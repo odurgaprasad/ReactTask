@@ -1,4 +1,4 @@
-import "./Sidebar.css";
+import "./sidebar.css";
 import { AiOutlineFileSearch, AiOutlineUser } from "react-icons/ai";
 import { FiSettings, FiBox, FiActivity } from "react-icons/fi";
 import {
